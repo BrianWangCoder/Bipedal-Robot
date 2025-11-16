@@ -2,7 +2,7 @@
 #define SERVOCONTROLLER_H
 
 #include <Arduino.h>
-#include <ESP32Servo.h>
+#include <Servo.h>
 
 class ServoController {
   private:
